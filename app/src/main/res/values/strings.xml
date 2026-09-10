@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">papoi</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="text_social_login">Social login</string>
+    <string name="desc_user_icon">User Icon</string>
+    <string name="desc_facebook">Facebook Login</string>
+    <string name="desc_instagram">Instagram Login</string>
+    <string name="desc_linkedin">LinkedIn Login</string>
+    <string name="toast_correct_credentials">Ingresaste las credenciales correctas</string>
+    <string name="error_empty_fields">Por favor completa todos los campos</string>
+</resources>
